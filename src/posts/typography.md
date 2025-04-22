@@ -1,10 +1,11 @@
 ---
-title: "Typography"
-date: 2020-06-21T08:04
-thumb: "typography.png"
+title: "The Start of My Third Career"
+date: 2025-04-22T10:05
+thumb: "0422.gif"
 tags: 
-    - popular
-    - sample
+    - career
+    - growth
+	- teaching
 ---
 
 Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
